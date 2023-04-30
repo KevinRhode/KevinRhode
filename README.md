@@ -1,4 +1,4 @@
-### Hello, I am Kevin Rhode [Find Emoji]
+### Hello, I am Kevin Rhode 👋
 
 ## A fullstack web developer and game technician
 I'm currently  
